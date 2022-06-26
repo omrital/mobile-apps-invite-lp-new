@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03c68884-6ea6-4ade-a897-556a7ddd6ebf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo_spaces.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/lp_background_spaces.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/phone_Illustration_spaces.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesktopLP/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DesktopLP/index.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1980">
+              <caret line="132" column="4" selection-start-line="132" selection-start-column="4" selection-end-line="132" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="34" column="8" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="36" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>react-router</find>
+      <find>react-router-do</find>
+      <find>dom</find>
+      <find>react-router-dom</find>
+      <find>/products-page</find>
+      <find>stylable app</find>
+      <find>stylesheet</find>
+      <find>stylesheet()</find>
+      <find>-moz-osx</find>
+      <find>Image</find>
+      <find>src</find>
+      <find>styles</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/node_modules</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$PROJECT_DIR$/src/DesktopLP/index.css" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/DesktopLP/index.scss" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/app.tsx" />
+        <option value="$PROJECT_DIR$/src/DesktopLP/index.tsx" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1432" />
+    <option name="height" value="894" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wix-style-react-webpack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wix-style-react-webpack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wix-style-react-webpack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wix-style-react-webpack" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wix-style-react-webpack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wix-style-react-webpack" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DesktopLP" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editorconfig.notification" value="null" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/DesktopLP/assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03c68884-6ea6-4ade-a897-556a7ddd6ebf" name="Default Changelist" comment="" />
+      <created>1655707991486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655707991486</updated>
+      <workItem from="1655707993272" duration="27227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27227000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1432" height="894" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23954642" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" weight="0.32938075" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.2753623" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/EditableTitle/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/EditableTitle/EditableTitle.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/EditableTitle/EditableTitle.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/EditableTitle/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/RadioGroup/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/RadioGroup/RadioGroup.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/RadioGroup/RadioGroup.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/RadioGroup/RadioGroup.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/RadioGroup/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/RadioGroup/RadioGroup.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MediaOverlay/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MediaOverlay/MediaOverlay.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MediaOverlay/MediaOverlay.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MediaOverlay/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AddressInput/AddressInput.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AddressInput/AddressInput.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AddressInput/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AddressInput/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AudioPlayer/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AudioPlayer/AudioPlayer.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AudioPlayer/AudioPlayer.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AudioPlayer/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MultiSelectCheckbox/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MultiSelectCheckbox/MultiSelectCheckbox.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MultiSelectCheckbox/MultiSelectCheckbox.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MultiSelectCheckbox/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MultiSelectCheckbox/MultiSelectCheckbox.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MultiSelectCheckbox/MultiSelectCheckbox.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Thumbnail/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Thumbnail/Thumbnail.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Thumbnail/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Thumbnail/Thumbnail.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FloatingNotification/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FloatingNotification/FloatingNotification.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FloatingNotification/FloatingNotification.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FloatingNotification/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Button/Button.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Button/Button.legacy.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Button/Button.legacy.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Button/Button.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Proportion/Proportion.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Proportion/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Proportion/Proportion.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Proportion/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/GoogleAddressInput/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/GoogleAddressInput/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/utils/generateDataAttr.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/utils/generateDataAttr.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/InfoIcon/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/InfoIcon/InfoIcon.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/InfoIcon/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/InfoIcon/InfoIcon.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BarChart/BarChart.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BarChart/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BarChart/BarChart.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BarChart/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TimeTable/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TimeTable/TimeTable.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TimeTable/TimeTable.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TimeTable/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ThemeProvider/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ThemeProvider/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BrowserPreviewWidget/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BrowserPreviewWidget/BrowserPreviewWidget.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BrowserPreviewWidget/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BrowserPreviewWidget/BrowserPreviewWidget.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Dropdown/Dropdown.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Dropdown/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Dropdown/Dropdown.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Dropdown/Dropdown.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Dropdown/Dropdown.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Dropdown/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MessageModalLayout/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MessageModalLayout/MessageModalLayout.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MessageModalLayout/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MessageModalLayout/MessageModalLayout.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FailWhale/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FailWhale/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SelectorList/SelectorList.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SelectorList/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SelectorList/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SelectorList/SelectorList.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PageFooter/PageFooter.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PageFooter/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PageFooter/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PageFooter/PageFooter.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CarouselWIP/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CarouselWIP/CarouselWIP.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CarouselWIP/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CarouselWIP/CarouselWIP.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CarouselWIP/CarouselWIP.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CarouselWIP/CarouselWIP.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AddressInputItem/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AddressInputItem/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AddressInputItem/AddressInputItem.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AddressInputItem/AddressInputItem.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ColorInput/ColorInput.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ColorInput/ColorInput.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ColorInput/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ColorInput/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AtlasAddressInput/AtlasAddressInput.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AtlasAddressInput/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AtlasAddressInput/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AtlasAddressInput/AtlasAddressInput.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarItemNext/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarItemNext/SidebarItemNext.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarItemNext/SidebarItemNext.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarItemNext/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CardGalleryItem/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CardGalleryItem/CardGalleryItem.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CardGalleryItem/CardGalleryItem.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CardGalleryItem/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Badge/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Badge/Badge.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Badge/Badge.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Badge/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Badge/Badge.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Badge/Badge.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Notification/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Notification/Notification.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Notification/Notification.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Notification/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Notification/Notification.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Notification/Notification.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CustomModalLayout/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CustomModalLayout/CustomModalLayout.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CustomModalLayout/CustomModalLayout.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CustomModalLayout/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DragDropContextProvider/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DragDropContextProvider/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/WixStyleReactProvider/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/WixStyleReactProvider/WixStyleReactProvider.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/WixStyleReactProvider/WixStyleReactProvider.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/WixStyleReactProvider/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SparklineChart/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SparklineChart/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SparklineChart/SparklineChart.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SparklineChart/SparklineChart.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MultiSelect/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MultiSelect/MultiSelect.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MultiSelect/MultiSelect.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MultiSelect/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MultiSelect/MultiSelect.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MultiSelect/MultiSelect.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FillPreview/FillPreview.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FillPreview/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FillPreview/FillPreview.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FillPreview/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ToggleButton/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ToggleButton/ToggleButton.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ToggleButton/ToggleButton.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ToggleButton/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/EmptyState/EmptyState.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/EmptyState/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/EmptyState/EmptyState.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/EmptyState/EmptyState.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/EmptyState/EmptyState.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/EmptyState/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Composite/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Composite/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PageSection/PageSection.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PageSection/PageSection.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PageSection/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PageSection/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Calendar/Calendar.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Calendar/Calendar.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Calendar/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Calendar/Calendar.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Calendar/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Calendar/Calendar.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarSectionItem/SidebarSectionItem.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarSectionItem/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarSectionItem/SidebarSectionItem.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarSectionItem/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/InputArea/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/InputArea/InputArea.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/InputArea/InputArea.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/InputArea/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/InputArea/InputArea.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/InputArea/InputArea.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Timeline/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Timeline/Timeline.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Timeline/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Timeline/Timeline.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ListItemSelect/ListItemSelect.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ListItemSelect/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ListItemSelect/ListItemSelect.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ListItemSelect/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Layout/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Layout/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FeatureList/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FeatureList/FeatureList.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FeatureList/FeatureList.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FeatureList/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TableListItem/TableListItem.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TableListItem/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TableListItem/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TableListItem/TableListItem.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CalendarPanel/CalendarPanel.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CalendarPanel/CalendarPanel.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CalendarPanel/CalendarPanel.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CalendarPanel/CalendarPanel.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CalendarPanel/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CalendarPanel/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FloatingHelper/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FloatingHelper/FloatingHelper.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FloatingHelper/FloatingHelper.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FloatingHelper/FloatingHelper.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FloatingHelper/FloatingHelper.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FloatingHelper/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarSubMenuNext/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarSubMenuNext/SidebarSubMenuNext.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarSubMenuNext/SidebarSubMenuNext.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarSubMenuNext/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SkeletonCircle/SkeletonCircle.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SkeletonCircle/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SkeletonCircle/SkeletonCircle.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SkeletonCircle/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CircularProgressBar/CircularProgressBar.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CircularProgressBar/CircularProgressBar.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CircularProgressBar/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CircularProgressBar/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CircularProgressBar/CircularProgressBar.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CircularProgressBar/CircularProgressBar.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Page/Page.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Page/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Page/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Page/Page.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Page/Page.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Page/Page.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TableActionCell/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TableActionCell/TableActionCell.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TableActionCell/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TableActionCell/TableActionCell.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TableActionCell/TableActionCell.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TableActionCell/TableActionCell.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/VariableInput/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/VariableInput/VariableInput.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/VariableInput/VariableInput.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/VariableInput/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/StarsRatingBar/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/StarsRatingBar/StarsRatingBar.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/StarsRatingBar/StarsRatingBar.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/StarsRatingBar/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Checkbox/Checkbox.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Checkbox/Checkbox.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Checkbox/Checkbox.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Checkbox/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Checkbox/Checkbox.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Checkbox/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/EditableSelector/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/EditableSelector/EditableSelector.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/EditableSelector/EditableSelector.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/EditableSelector/EditableSelector.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/EditableSelector/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/EditableSelector/EditableSelector.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Search/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Search/Search.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Search/Search.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Search/Search.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Search/Search.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Search/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/StatisticsWidget/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/StatisticsWidget/StatisticsWidget.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/StatisticsWidget/StatisticsWidget.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/StatisticsWidget/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AutoCompleteWithLabel/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AutoCompleteWithLabel/AutoCompleteWithLabel.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AutoCompleteWithLabel/AutoCompleteWithLabel.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AutoCompleteWithLabel/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidePanel/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidePanel/SidePanel.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidePanel/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidePanel/SidePanel.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarNext/SidebarNext.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarNext/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarNext/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarNext/SidebarNext.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarHeader/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarHeader/SidebarHeader.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarHeader/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarHeader/SidebarHeader.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CopyClipboard/CopyClipboard.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CopyClipboard/CopyClipboard.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CopyClipboard/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CopyClipboard/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SelectableAccordion/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SelectableAccordion/SelectableAccordion.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SelectableAccordion/SelectableAccordion.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SelectableAccordion/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Tooltip/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Tooltip/Tooltip.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Tooltip/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Tooltip/Tooltip.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CalendarPanelFooter/CalendarPanelFooter.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CalendarPanelFooter/CalendarPanelFooter.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CalendarPanelFooter/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CalendarPanelFooter/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TimeInput/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TimeInput/TimeInput.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TimeInput/TimeInput.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TimeInput/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ImageViewer/ImageViewer.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ImageViewer/ImageViewer.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ImageViewer/ImageViewer.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ImageViewer/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ImageViewer/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ImageViewer/ImageViewer.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Sidebar/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Sidebar/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Sidebar/Sidebar.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Sidebar/Sidebar.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MarketingPageLayoutContent/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MarketingPageLayoutContent/MarketingPageLayoutContent.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MarketingPageLayoutContent/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MarketingPageLayoutContent/MarketingPageLayoutContent.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Slider/Slider.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Slider/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Slider/Slider.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Slider/Slider.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Slider/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Slider/Slider.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CardFolderTabs/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CardFolderTabs/CardFolderTabs.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CardFolderTabs/CardFolderTabs.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CardFolderTabs/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BounceAnimation/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BounceAnimation/BounceAnimation.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BounceAnimation/BounceAnimation.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BounceAnimation/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AreaChart/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AreaChart/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AreaChart/AreaChart.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AreaChart/AreaChart.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SegmentedToggle/SegmentedToggle.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SegmentedToggle/SegmentedToggle.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SegmentedToggle/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SegmentedToggle/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AnnouncementModalLayout/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AnnouncementModalLayout/AnnouncementModalLayout.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AnnouncementModalLayout/AnnouncementModalLayout.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AnnouncementModalLayout/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TestimonialList/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TestimonialList/TestimonialList.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TestimonialList/TestimonialList.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TestimonialList/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Skeleton/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Skeleton/Skeleton.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Skeleton/Skeleton.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Skeleton/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Skeleton/Skeleton.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Skeleton/Skeleton.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SkeletonRectangle/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SkeletonRectangle/SkeletonRectangle.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SkeletonRectangle/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SkeletonRectangle/SkeletonRectangle.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TextButton/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TextButton/TextButton.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TextButton/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TextButton/TextButton.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Animate/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Animate/Animate.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Animate/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Animate/Animate.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TableToolbar/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TableToolbar/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MarketingPageLayout/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MarketingPageLayout/MarketingPageLayout.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MarketingPageLayout/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MarketingPageLayout/MarketingPageLayout.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Breadcrumbs/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Breadcrumbs/Breadcrumbs.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Breadcrumbs/Breadcrumbs.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Breadcrumbs/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Breadcrumbs/Breadcrumbs.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Breadcrumbs/Breadcrumbs.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Stepper/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Stepper/Stepper.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Stepper/Stepper.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Stepper/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FunnelChart/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FunnelChart/FunnelChart.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FunnelChart/FunnelChart.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FunnelChart/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Avatar/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Avatar/Avatar.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Avatar/Avatar.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Avatar/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ListItemAction/ListItemAction.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ListItemAction/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ListItemAction/ListItemAction.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ListItemAction/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AnalyticsLayout/AnalyticsLayout.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AnalyticsLayout/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AnalyticsLayout/AnalyticsLayout.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AnalyticsLayout/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Modal/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Modal/Modal.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Modal/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Modal/Modal.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Modal/Modal.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Modal/Modal.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CheckToggle/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CheckToggle/CheckToggle.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CheckToggle/CheckToggle.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CheckToggle/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ModalPreviewLayout/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ModalPreviewLayout/ModalPreviewLayout.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ModalPreviewLayout/ModalPreviewLayout.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ModalPreviewLayout/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MarketingLayout/MarketingLayout.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MarketingLayout/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MarketingLayout/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MarketingLayout/MarketingLayout.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BadgeSelect/BadgeSelect.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BadgeSelect/BadgeSelect.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BadgeSelect/BadgeSelect.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BadgeSelect/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BadgeSelect/BadgeSelect.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BadgeSelect/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Image/Image.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Image/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Image/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Image/Image.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Swatches/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Swatches/Swatches.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Swatches/Swatches.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Swatches/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/IconButton/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/IconButton/IconButton.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/IconButton/IconButton.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/IconButton/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Dropzone/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Dropzone/Dropzone.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Dropzone/Dropzone.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Dropzone/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BaseModalLayout/BaseModalLayout.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BaseModalLayout/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BaseModalLayout/BaseModalLayout.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BaseModalLayout/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Selector/Selector.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Selector/Selector.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Selector/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Selector/Selector.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Selector/Selector.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Selector/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/GooglePreview/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/GooglePreview/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/GooglePreview/GooglePreview.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/GooglePreview/GooglePreview.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Card/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Card/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DropdownLayout/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DropdownLayout/DropdownLayout.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DropdownLayout/DropdownLayout.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DropdownLayout/DropdownLayout.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DropdownLayout/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DropdownLayout/DropdownLayout.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FillButton/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FillButton/FillButton.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FillButton/FillButton.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FillButton/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DatePicker/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DatePicker/DatePicker.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DatePicker/DatePicker.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DatePicker/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DatePicker/DatePicker.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DatePicker/DatePicker.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SocialPreview/SocialPreview.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SocialPreview/SocialPreview.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SocialPreview/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SocialPreview/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TrendIndicator/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TrendIndicator/TrendIndicator.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TrendIndicator/TrendIndicator.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TrendIndicator/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FilePicker/FilePicker.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FilePicker/FilePicker.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FilePicker/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FilePicker/FilePicker.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FilePicker/FilePicker.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FilePicker/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Popover/Popover.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Popover/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Popover/Popover.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Popover/Popover.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Popover/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Popover/Popover.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AvatarGroup/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AvatarGroup/AvatarGroup.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AvatarGroup/AvatarGroup.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AvatarGroup/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Heading/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Heading/Heading.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Heading/Heading.puppeteer.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Heading/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Heading/Heading.puppeteer.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Heading/Heading.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Heading/Heading.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Heading/Heading.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PopoverMenu/PopoverMenu.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PopoverMenu/PopoverMenu.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PopoverMenu/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PopoverMenu/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/clients/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/clients/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/HorizontalTimeline/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/HorizontalTimeline/HorizontalTimeline.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/HorizontalTimeline/HorizontalTimeline.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/HorizontalTimeline/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/StackedBarChart/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/StackedBarChart/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/StackedBarChart/StackedBarChart.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/StackedBarChart/StackedBarChart.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/StatusIndicator/StatusIndicator.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/StatusIndicator/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/StatusIndicator/StatusIndicator.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/StatusIndicator/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SectionHelper/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SectionHelper/SectionHelper.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SectionHelper/SectionHelper.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SectionHelper/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SectionHelper/SectionHelper.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SectionHelper/SectionHelper.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/NestableList/NestableList.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/NestableList/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/NestableList/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/NestableList/NestableList.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Table/Table.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Table/Table.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Table/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Table/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Table/Table.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Table/Table.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MobilePreviewWidget/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MobilePreviewWidget/MobilePreviewWidget.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MobilePreviewWidget/MobilePreviewWidget.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/MobilePreviewWidget/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ListItemEditable/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ListItemEditable/ListItemEditable.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ListItemEditable/ListItemEditable.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ListItemEditable/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Radio/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Radio/Radio.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Radio/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Radio/Radio.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Radio/Radio.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Radio/Radio.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Text/Text.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Text/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Text/Text.puppeteer.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Text/Text.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Text/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Text/Text.puppeteer.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Text/Text.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Text/Text.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PreviewWidget/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PreviewWidget/PreviewWidget.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PreviewWidget/PreviewWidget.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PreviewWidget/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FacesRatingBar/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FacesRatingBar/FacesRatingBar.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FacesRatingBar/FacesRatingBar.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FacesRatingBar/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Accordion/Accordion.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Accordion/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Accordion/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Accordion/Accordion.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DropdownBase/DropdownBase.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DropdownBase/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DropdownBase/DropdownBase.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DropdownBase/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ToggleSwitch/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ToggleSwitch/ToggleSwitch.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ToggleSwitch/ToggleSwitch.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ToggleSwitch/ToggleSwitch.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ToggleSwitch/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ToggleSwitch/ToggleSwitch.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Tag/Tag.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Tag/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Tag/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Tag/Tag.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Tag/Tag.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Tag/Tag.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarSectionTitle/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarSectionTitle/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarSectionTitle/SidebarSectionTitle.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarSectionTitle/SidebarSectionTitle.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BadgeSelectItem/BadgeSelectItem.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BadgeSelectItem/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BadgeSelectItem/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BadgeSelectItem/BadgeSelectItem.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ColorPicker/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ColorPicker/ColorPicker.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ColorPicker/ColorPicker.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ColorPicker/ColorPicker.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ColorPicker/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ColorPicker/ColorPicker.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Carousel/Carousel.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Carousel/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Carousel/Carousel.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Carousel/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Carousel/Carousel.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Carousel/Carousel.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/LinearProgressBar/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/LinearProgressBar/LinearProgressBar.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/LinearProgressBar/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/LinearProgressBar/LinearProgressBar.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/LinearProgressBar/LinearProgressBar.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/LinearProgressBar/LinearProgressBar.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AddItem/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AddItem/AddItem.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AddItem/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AddItem/AddItem.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AddItem/AddItem.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AddItem/AddItem.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Pagination/Pagination.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Pagination/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Pagination/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Pagination/Pagination.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/InputWithLabel/InputWithLabel.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/InputWithLabel/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/InputWithLabel/InputWithLabel.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/InputWithLabel/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Input/Input.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Input/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Input/Input.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Input/Input.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Input/Input.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Input/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/VerticalTabs/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/VerticalTabs/VerticalTabs.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/VerticalTabs/VerticalTabs.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/VerticalTabs/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/RadarChart/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/RadarChart/RadarChart.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/RadarChart/RadarChart.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/RadarChart/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AutoComplete/AutoComplete.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AutoComplete/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AutoComplete/AutoComplete.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AutoComplete/AutoComplete.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AutoComplete/AutoComplete.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AutoComplete/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FormField/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FormField/FormField.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FormField/FormField.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FormField/FormField.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FormField/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FormField/FormField.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ModalSelectorLayout/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ModalSelectorLayout/ModalSelectorLayout.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ModalSelectorLayout/ModalSelectorLayout.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ModalSelectorLayout/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ModalSelectorLayout/ModalSelectorLayout.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ModalSelectorLayout/ModalSelectorLayout.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarDivider/SidebarDivider.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarDivider/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarDivider/SidebarDivider.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarDivider/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Box/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Box/Box.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Box/Box.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Box/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/dnd-styles/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/dnd-styles/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Range/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Range/Range.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Range/Range.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Range/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Range/Range.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Range/Range.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ModalMobileLayout/ModalMobileLayout.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ModalMobileLayout/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ModalMobileLayout/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ModalMobileLayout/ModalMobileLayout.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SkeletonGroup/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SkeletonGroup/SkeletonGroup.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SkeletonGroup/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SkeletonGroup/SkeletonGroup.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/InputWithOptions/InputWithOptions.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/InputWithOptions/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/InputWithOptions/InputWithOptions.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/InputWithOptions/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/InputWithOptions/InputWithOptions.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/InputWithOptions/InputWithOptions.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DragAndDrop/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DragAndDrop/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarBackButton/SidebarBackButton.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarBackButton/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarBackButton/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidebarBackButton/SidebarBackButton.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/LabelledElement/LabelledElement.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/LabelledElement/LabelledElement.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/LabelledElement/LabelledElement.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/LabelledElement/LabelledElement.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Tabs/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Tabs/Tabs.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Tabs/Tabs.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Tabs/Tabs.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Tabs/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Tabs/Tabs.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Palette/Palette.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Palette/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Palette/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Palette/Palette.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AnalyticsSummaryCard/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AnalyticsSummaryCard/AnalyticsSummaryCard.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AnalyticsSummaryCard/AnalyticsSummaryCard.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/AnalyticsSummaryCard/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/RichTextInputArea/RichTextInputArea.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/RichTextInputArea/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/RichTextInputArea/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/RichTextInputArea/RichTextInputArea.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ListItemSection/ListItemSection.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ListItemSection/ListItemSection.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ListItemSection/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ListItemSection/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Loader/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Loader/Loader.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Loader/Loader.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Loader/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Loader/Loader.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Loader/Loader.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/NumberInput/NumberInput.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/NumberInput/NumberInput.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SkeletonLine/SkeletonLine.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SkeletonLine/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SkeletonLine/SkeletonLine.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SkeletonLine/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TagList/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TagList/TagList.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TagList/TagList.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/TagList/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/WixStyleReactEnvironmentProvider/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/WixStyleReactEnvironmentProvider/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FileUpload/FileUpload.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FileUpload/FileUpload.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FileUpload/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FileUpload/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Highlighter/Highlighter.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Highlighter/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Highlighter/Highlighter.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Highlighter/Highlighter.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Highlighter/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Highlighter/Highlighter.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Collapse/Collapse.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Collapse/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Collapse/Collapse.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Collapse/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/VerticalTabsItem/VerticalTabsItem.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/VerticalTabsItem/VerticalTabsItem.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/VerticalTabsItem/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/VerticalTabsItem/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SocialButton/SocialButton.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SocialButton/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SocialButton/SocialButton.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SocialButton/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CloseButton/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CloseButton/CloseButton.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CloseButton/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CloseButton/CloseButton.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CounterBadge/CounterBadge.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CounterBadge/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CounterBadge/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CounterBadge/CounterBadge.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ComposerSidebar/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ComposerSidebar/ComposerSidebar.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ComposerSidebar/ComposerSidebar.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ComposerSidebar/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PageHeader/PageHeader.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PageHeader/PageHeader.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PageHeader/PageHeader.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PageHeader/PageHeader.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PageHeader/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PageHeader/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ComposerHeader/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ComposerHeader/ComposerHeader.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ComposerHeader/ComposerHeader.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/ComposerHeader/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Divider/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Divider/Divider.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Divider/Divider.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Divider/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PulseAnimation/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PulseAnimation/PulseAnimation.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PulseAnimation/PulseAnimation.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PulseAnimation/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Card/Header/Header.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Card/Header/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Card/Header/Header.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Card/Header/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Card/Header/Header.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Card/Header/Header.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Card/Content/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Card/Content/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Card/Subheader/Subheader.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Card/Subheader/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Card/Subheader/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Card/Subheader/Subheader.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Card/Divider/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Card/Divider/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Table/DataTable/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Table/DataTable/DataTable.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Table/DataTable/DataTable.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Table/DataTable/DataTable.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Table/DataTable/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Table/DataTable/DataTable.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/common/PropTypes/TooltipCommon.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/common/PropTypes/TooltipCommon.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/common/ScrollableContainer/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/common/ScrollableContainer/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/common/Ellipsis/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/common/Ellipsis/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/common/FluidColumns/FluidColumns.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/common/FluidColumns/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/common/FluidColumns/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/common/FluidColumns/FluidColumns.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Themes/businessDashboard/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Themes/businessDashboard/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Themes/floatingPanels/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Themes/floatingPanels/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Calendar/BaseCalendar/BaseCalendar.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Calendar/BaseCalendar/BaseCalendar.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Accordion/AccordionItem/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Accordion/AccordionItem/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Accordion/AccordionSectionItem/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/Accordion/AccordionSectionItem/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/providers/usePlacesAutocomplete/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/providers/usePlacesAutocomplete/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/providers/usePlacesAutocomplete/autocompleteClient.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/providers/usePlacesAutocomplete/autocompleteClient.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/providers/useAtlasClient/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/providers/useAtlasClient/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/providers/useCopyClipboard/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/providers/useCopyClipboard/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/providers/useIsMounted/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/providers/useIsMounted/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/providers/useDebouncedCallback/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/providers/useDebouncedCallback/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidePanel/Header/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidePanel/Header/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidePanel/Content/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidePanel/Content/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidePanel/Footer/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidePanel/Footer/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidePanel/Divider/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SidePanel/Divider/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DatePicker/DateInput/DateInput.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DatePicker/DateInput/DateInput.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DatePicker/DateInput/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DatePicker/DateInput/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PageFooter/Center/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PageFooter/Center/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PageFooter/Start/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PageFooter/Start/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PageFooter/End/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/PageFooter/End/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DragAndDrop/Draggable/Draggable.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DragAndDrop/Draggable/Draggable.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DragAndDrop/Draggable/Draggable.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DragAndDrop/Draggable/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DragAndDrop/Draggable/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/DragAndDrop/Draggable/Draggable.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FunnelChart/FunnelLabel/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FunnelChart/FunnelLabel/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FunnelChart/FunnelBadge/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FunnelChart/FunnelBadge/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SelectorList/ToggleAllCheckbox/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SelectorList/ToggleAllCheckbox/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SelectorList/Content/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SelectorList/Content/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CardFolderTabs/Tab/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/CardFolderTabs/Tab/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FloatingHelper/ClosablePopover/ClosablePopover.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FloatingHelper/ClosablePopover/ClosablePopover.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FloatingHelper/ClosablePopover/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FloatingHelper/ClosablePopover/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FloatingHelper/ClosablePopover/ClosablePopover.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FloatingHelper/ClosablePopover/ClosablePopover.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FloatingHelper/FloatingHelperContent/FloatingHelperContent.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FloatingHelper/FloatingHelperContent/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FloatingHelper/FloatingHelperContent/FloatingHelperContent.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FloatingHelper/FloatingHelperContent/FloatingHelperContent.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FloatingHelper/FloatingHelperContent/FloatingHelperContent.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/FloatingHelper/FloatingHelperContent/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BaseModalLayout/LayoutBlocks/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BaseModalLayout/LayoutBlocks/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/EditableSelector/EditableRow/EditableRow.uni.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/EditableSelector/EditableRow/EditableRow.uni.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/EditableSelector/EditableRow/EditableRow.driver.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/EditableSelector/EditableRow/EditableRow.driver.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SelectableAccordion/Item/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/SelectableAccordion/Item/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/external-types.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/external-types.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/common.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/common.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BaseModalLayout/LayoutBlocks/Header/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BaseModalLayout/LayoutBlocks/Header/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BaseModalLayout/LayoutBlocks/Illustration/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BaseModalLayout/LayoutBlocks/Illustration/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BaseModalLayout/LayoutBlocks/Content/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BaseModalLayout/LayoutBlocks/Content/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BaseModalLayout/LayoutBlocks/Footnote/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BaseModalLayout/LayoutBlocks/Footnote/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BaseModalLayout/LayoutBlocks/Footer/index.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BaseModalLayout/LayoutBlocks/Footer/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BaseModalLayout/LayoutBlocks/Header/ModalHeading/index.d.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BaseModalLayout/LayoutBlocks/Header/ModalHeading/index.d.js" />
+      </list>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/react-router-dom/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding>
+            <element signature="e#158#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AddProductPage/AddProductUtils.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/wix-style-react/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="60" column="14" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="921">
+          <caret line="6897" column="6" selection-start-line="6897" selection-start-column="6" selection-end-line="6897" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AddProductPage/AddProducts.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+          <folding>
+            <element signature="e#32#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Context/context.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/csstype/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2257" column="2" selection-start-line="2257" selection-start-column="2" selection-end-line="2257" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/lp_background_spaces.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesktopLP/assets/lp_background_spaces.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProductPage/ProductsPage.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="95" column="14" lean-forward="true" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/phone_Illustration_spaces.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/wix-style-react/dist/types/Layout/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/node/globals.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@stylable/webpack-plugin/dist/webpack-entities.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesktopLP/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="34" column="8" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="36" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesktopLP/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="132" column="4" selection-start-line="132" selection-start-column="4" selection-end-line="132" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

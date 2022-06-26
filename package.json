@@ -1,0 +1,39 @@
+{
+  "name": "wix-style-react-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "typecheck": "tsc --noEmit",
+    "build": "webpack --mode production --no-devtool",
+    "start": "webpack serve --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@types/react-router-dom": "^5.3.3",
+    "node-sass": "^7.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "5.3.0",
+    "resolve-url-loader": "^4.0.0",
+    "sass-loader": "^12.1.0",
+    "react-qr-code": "^2.0.7",
+    "style-loader": "^3.2.1"
+  },
+  "devDependencies": {
+    "@stylable/core": "^4.6.0",
+    "@stylable/webpack-plugin": "^4.6.0",
+    "html-webpack-plugin": "^5.3.2",
+    "ts-loader": "^9.2.5",
+    "typescript": "^4.3.5",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.0.0",
+    "wix-style-react": "^10.40.4"
+  }
+}
