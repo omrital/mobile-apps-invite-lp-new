@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03c68884-6ea6-4ade-a897-556a7ddd6ebf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo_spaces.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lp_background_spaces.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/phone_Illustration_spaces.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesktopLP/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesktopLP/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/WixMadeforDisplay_W_Bd.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/WixMadeforDisplay_W_Rg.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/WixMadeforDisplay_W_XBd.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/WixMadeforText_W_Bd.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/WixMadeforText_W_BdIt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/WixMadeforText_W_It.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesktopLP/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesktopLP/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,12 +25,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DesktopLP/index.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1980">
-              <caret line="132" column="4" selection-start-line="132" selection-start-column="4" selection-end-line="132" selection-end-column="4" />
+            <state relative-caret-position="215">
+              <caret line="54" column="55" selection-start-line="54" selection-start-column="55" selection-end-line="54" selection-end-column="55" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -35,9 +39,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DesktopLP/index.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
+            <state relative-caret-position="435">
               <caret line="29" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
@@ -46,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="34" column="8" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="36" />
+            <state relative-caret-position="405">
+              <caret line="34" column="8" selection-start-line="33" selection-start-column="5" selection-end-line="36" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -58,7 +71,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="45">
               <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -70,8 +83,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webpack.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            <state relative-caret-position="198">
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -105,25 +118,26 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/package-lock.json" />
         <option value="$PROJECT_DIR$/src/DesktopLP/index.css" />
-        <option value="$PROJECT_DIR$/webpack.config.js" />
-        <option value="$PROJECT_DIR$/src/DesktopLP/index.scss" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/app.tsx" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/DesktopLP/index.scss" />
         <option value="$PROJECT_DIR$/src/DesktopLP/index.tsx" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1432" />
-    <option name="height" value="894" />
+    <option name="width" value="1434" />
+    <option name="height" value="952" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -131,35 +145,41 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="wix-style-react-webpack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wix-style-react-webpack" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile-apps-invite-lp-new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile-apps-invite-lp-new" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="wix-style-react-webpack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wix-style-react-webpack" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile-apps-invite-lp-new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile-apps-invite-lp-new" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="wix-style-react-webpack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wix-style-react-webpack" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile-apps-invite-lp-new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile-apps-invite-lp-new" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="DesktopLP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobile-apps-invite-lp-new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile-apps-invite-lp-new" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editorconfig.notification" value="null" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -167,12 +187,13 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/src/DesktopLP/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -198,24 +219,20 @@
       <option name="presentableId" value="Default" />
       <updated>1655707991486</updated>
       <workItem from="1655707993272" duration="27227000" />
+      <workItem from="1656253585601" duration="5795000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27227000" />
+    <option name="totallyTimeSpent" value="33022000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1432" height="894" extended-state="0" />
+    <frame x="0" y="23" width="1434" height="952" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23954642" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23920736" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="TypeScript" weight="0.32938075" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="SonarLint" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.2753623" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -223,6 +240,12 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.2741738" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SonarLint" order="9" />
+      <window_info anchor="bottom" id="TypeScript" order="10" weight="0.32806325" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1144,20 +1167,12 @@
         <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BaseModalLayout/LayoutBlocks/Footer/index.d.js.map" />
         <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BaseModalLayout/LayoutBlocks/Header/ModalHeading/index.d.js.map" />
         <option value="$PROJECT_DIR$/node_modules/wix-style-react/dist/src/BaseModalLayout/LayoutBlocks/Header/ModalHeading/index.d.js" />
+        <option value="$PROJECT_DIR$/../../wix-owners-app-platform/node_modules/wix-one-app-engine/src/facade/moduleFacade.d.ts" />
       </list>
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/react-router-dom/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-          <folding>
-            <element signature="e#158#189#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-router-dom/index.d.ts" />
     <entry file="file://$PROJECT_DIR$/src/AddProductPage/AddProductUtils.tsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -1209,9 +1224,7 @@
     <entry file="file://$PROJECT_DIR$/public/lp_background_spaces.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DesktopLP/assets/lp_background_spaces.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesktopLP/assets/lp_background_spaces.png" />
     <entry file="file://$PROJECT_DIR$/src/ProductPage/ProductsPage.tsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1246,9 +1259,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="34" column="8" selection-start-line="33" selection-start-column="5" selection-end-line="36" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="45">
           <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
@@ -1256,41 +1279,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DesktopLP/index.scss">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" selection-end-line="6" />
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="198">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
+        <state relative-caret-position="435">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app.tsx">
+    <entry file="file://$PROJECT_DIR$/src/DesktopLP/index.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="34" column="8" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="36" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="333">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DesktopLP/index.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1980">
-          <caret line="132" column="4" selection-start-line="132" selection-start-column="4" selection-end-line="132" selection-end-column="4" />
+        <state relative-caret-position="215">
+          <caret line="54" column="55" selection-start-line="54" selection-start-column="55" selection-end-line="54" selection-end-column="55" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>

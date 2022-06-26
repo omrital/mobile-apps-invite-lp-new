@@ -31,7 +31,8 @@ module.exports = {
                 test: /\.scss$/,
                 include: [
                     path.join(__dirname, 'node_modules/wix-animations'),
-                    path.join(__dirname, 'node_modules/wix-style-react')
+                    path.join(__dirname, 'node_modules/wix-style-react'),
+                    path.join(__dirname, 'src')
                 ],
                 use: [
                     {

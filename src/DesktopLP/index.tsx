@@ -1,6 +1,7 @@
 import React from 'react';
 import {Box, Image, Heading, Text, Dropdown, Input, Button} from 'wix-style-react';
 import QRCode from 'react-qr-code';
+import styles from './index.scss';
 
 const lp_background_spaces = '/lp_background_spaces.png';
 const PHONE_ILLUSTRATION = 'phone_Illustration_spaces.png';
@@ -21,7 +22,7 @@ export default class DesktopLP extends React.Component<{}, State> {
   renderInviteForm = () => {
     return (
       <Box height="100%" width="60%" paddingTop="70px" marginLeft="140px" marginRight="60px" backgroundColor="#CCC0" direction="vertical">
-        <Image height="20px" width="100px" src={LOGO} fit="cover" transparent/>
+        <Image height="15px" width="80px" src={LOGO} fit="cover" transparent/>
         {this.renderInviteDescription()}
         <Box direction="horizontal">
           {this.renderSendSmsView()}
@@ -35,13 +36,13 @@ export default class DesktopLP extends React.Component<{}, State> {
   renderInviteDescription = () => {
     return (
       <Box direction="vertical" paddingTop="26px" backgroundColor="#EEE0">
-        <Heading light size="extraLarge">Join “Kicksmini”</Heading>
+        <strong className={styles.mainTitle}>Join “Kicksmini”</strong>
         <Box paddingTop="20px">
-          <Heading light size="medium">Secondary Line</Heading>
+          <strong className={styles.secondaryTitle}>Secondary Line</strong>
         </Box>
         <Box paddingTop="20px">
-          <Text light weight="thin" size="medium">Download the Spaces by Wix app and join “Kicksmini” to check out their
-            blog on the go and stay updated with new posts.</Text>
+          <strong className={styles.description}>Download the Spaces by Wix app and join “Kicksmini” to check out their
+            blog on the go and stay updated with new posts.</strong>
         </Box>
       </Box>
     );
@@ -50,8 +51,8 @@ export default class DesktopLP extends React.Component<{}, State> {
   renderQRcode = () => {
     return (
       <Box direction="vertical" paddingTop="50px" paddingLeft="40px" backgroundColor="#EEE0">
-        <Text light weight="thin" size="small">Or scan to download</Text>
-        <div style={{marginLeft: "15px", marginTop: "10px"}}>
+        <strong className={styles.hint}>Or scan to download</strong>
+        <div style={{marginLeft: "10px", marginTop: "15px"}}>
           <QRCode value="http://www.wix.com/omri.tal13" size={91}/>
         </div>
       </Box>
@@ -61,15 +62,15 @@ export default class DesktopLP extends React.Component<{}, State> {
   renderSendSmsView = () => {
     return (
       <Box direction="vertical" paddingTop="72px" backgroundColor="#EEE0">
-        <Text light weight="thin" size="small">Enter your phone number to get a download link</Text>
-        <Box direction="horizontal" paddingTop="20px" backgroundColor="#EEE0">
+        <strong className={styles.hint}>Enter your phone number to get a download link</strong>
+        <Box direction="horizontal" paddingTop="22px" backgroundColor="#EEE0">
           <Box width="91px" marginRight="10px">
             <Dropdown
               initialSelectedId={this.state.countryCode}
               onSelect={({ id }) => this.setState({ countryCode: id })}
               options={[
                 { id: 0, value: '972' },
-                { id: 1, value: '1' },
+                { id: 1, value: '155' },
                 { id: 2, value: '66' },
                 { id: 3, value: '424' }
               ]}
