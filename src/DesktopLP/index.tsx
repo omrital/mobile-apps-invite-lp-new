@@ -1,11 +1,10 @@
 import React from 'react';
-import {Box, Image, Heading, Text, Dropdown, Input, Button} from 'wix-style-react';
-import QRCode from 'react-qr-code';
 import styles from './index.scss';
-
-const lp_background_spaces = '/lp_background_spaces.png';
-const PHONE_ILLUSTRATION = 'phone_Illustration_spaces.png';
-const LOGO = 'logo_spaces.png';
+import QRCode from 'react-qr-code';
+import {Box, Image, Dropdown, Input, Button, TextButton} from 'wix-style-react';
+import {inviteDetailsPresenter as presenter} from './services/inviteDetailsPresenter';
+import {config, inviteDetails} from './config';
+import PhoneIllustration from './components/PhoneIllustration';
 
 type State = {
   countryCode: number,
@@ -22,7 +21,7 @@ export default class DesktopLP extends React.Component<{}, State> {
   renderInviteForm = () => {
     return (
       <Box height="100%" width="60%" paddingTop="70px" marginLeft="140px" marginRight="60px" backgroundColor="#CCC0" direction="vertical">
-        <Image height="15px" width="80px" src={LOGO} fit="cover" transparent/>
+        <Image height="15px" width="80px" src={presenter.getAppLogo(inviteDetails)} fit="cover" transparent/>
         {this.renderInviteDescription()}
         <Box direction="horizontal">
           {this.renderSendSmsView()}
@@ -36,13 +35,12 @@ export default class DesktopLP extends React.Component<{}, State> {
   renderInviteDescription = () => {
     return (
       <Box direction="vertical" paddingTop="26px" backgroundColor="#EEE0">
-        <strong className={styles.mainTitle}>Join “Kicksmini”</strong>
+        <strong className={styles.mainTitle}>Join “{inviteDetails.title}”</strong>
         <Box paddingTop="20px">
-          <strong className={styles.secondaryTitle}>Secondary Line</strong>
+          <strong className={styles.secondaryTitle}>{inviteDetails.subtitle}</strong>
         </Box>
         <Box paddingTop="20px">
-          <strong className={styles.description}>Download the Spaces by Wix app and join “Kicksmini” to check out their
-            blog on the go and stay updated with new posts.</strong>
+          <strong className={styles.description}>{inviteDetails.description}</strong>
         </Box>
       </Box>
     );
@@ -50,10 +48,10 @@ export default class DesktopLP extends React.Component<{}, State> {
 
   renderQRcode = () => {
     return (
-      <Box direction="vertical" paddingTop="50px" paddingLeft="40px" backgroundColor="#EEE0">
-        <strong className={styles.hint}>Or scan to download</strong>
-        <div style={{marginLeft: "10px", marginTop: "15px"}}>
-          <QRCode value="http://www.wix.com/omri.tal13" size={91}/>
+      <Box direction="vertical" paddingTop="50px" marginLeft="40px" backgroundColor="#0000">
+        <strong className={styles.qrCodeHint}>Or scan to download</strong>
+        <div className={styles.qrBox} style={{backgroundImage: `url(${config.assets.QR_CODE_FRAME})`}}>
+          <QRCode value="http://www.wix.com/omri.tal13" size={72}/>
         </div>
       </Box>
     )
@@ -62,12 +60,12 @@ export default class DesktopLP extends React.Component<{}, State> {
   renderSendSmsView = () => {
     return (
       <Box direction="vertical" paddingTop="72px" backgroundColor="#EEE0">
-        <strong className={styles.hint}>Enter your phone number to get a download link</strong>
-        <Box direction="horizontal" paddingTop="22px" backgroundColor="#EEE0">
+        <strong className={styles.phoneHint}>Enter your phone number to get a download link</strong>
+        <Box direction="horizontal" paddingTop="25px" backgroundColor="#EEE0">
           <Box width="91px" marginRight="10px">
             <Dropdown
               initialSelectedId={this.state.countryCode}
-              onSelect={({ id }) => this.setState({ countryCode: id })}
+              onSelect={({ id }) => this.setState({ countryCode: id as number})}
               options={[
                 { id: 0, value: '972' },
                 { id: 1, value: '155' },
@@ -77,15 +75,13 @@ export default class DesktopLP extends React.Component<{}, State> {
             />
           </Box>
           <Input placeholder="Phone number" onChange={this.onChange} value={this.state.phoneNumber} />
-          <div style={{marginLeft: "10px"}}>
-            <div style={{position: "absolute"}}>
+          <div className={styles.sendBox1}>
+            <div className={styles.sendBox2}>
               <Button skin="dark" priority="secondary">Send</Button>
             </div>
             <Button skin="light">Send</Button>
           </div>
         </Box>
-
-
       </Box>
     );
   };
@@ -93,19 +89,34 @@ export default class DesktopLP extends React.Component<{}, State> {
   renderPhoneIllustration = () => {
     return (
       <Box height="100%" width="40%" marginTop="70px" backgroundColor="#FFF0">
-        <Image height="80%" width="100%" src={PHONE_ILLUSTRATION} fit="contain" transparent/>
+        <PhoneIllustration/>
       </Box>
     );
   };
 
-  onChange = (event) => {
+  renderFooter = () => {
+    return (
+      <Box height="70px" width="100%" marginTop="0px" backgroundColor="#EEE2">
+        <Box height="100%" width="100%" marginLeft="140px" marginRight="140px" marginTop="18px" backgroundColor="#0000" direction="horizontal">
+          <Image height="26px" width="110px" src={config.assets.LOGO_GOOGLE_PLAY} fit="cover" transparent/>
+          <Image height="26px" width="95px" src={config.assets.LOGO_APPLE} fit="cover" transparent/>
+          <Box height="26px" width="1px" marginLeft="30px" marginRight="30px" backgroundColor="#FFF"/>
+          <Box marginTop="4px">
+            <TextButton size="tiny" skin="light" underline="always">Learn more about Spaces By Wix</TextButton>
+          </Box>
+        </Box>
+      </Box>
+    );
+  };
+
+  onChange = (event: any) => {
     const { value } = event.target;
     if (value.length < 12) {
       this.setState({phoneNumber: this.getDisplayValue(value)});
     }
   };
 
-  getDisplayValue = (value) => {
+  getDisplayValue = (value: any) => {
     const [, group1, group2, group3] = value
       .replace(/\D/g, '')
       .match(/(\d{0,2})(\d{0,3})(\d{0,4})/);
@@ -117,17 +128,12 @@ export default class DesktopLP extends React.Component<{}, State> {
   render = () => {
     return (
       <Box height="100vh" padding="0" margin="-8px" backgroundColor="F00">
-        <div style={{
-          backgroundImage: `url(${lp_background_spaces})`,
-          width: '100%',
-          height: '100vh',
-          backgroundRepeat: 'no-repeat',
-          backgroundSize: 'cover'
-        }}>
+        <div className={styles.mainBox} style={{backgroundImage: `url(${config.assets.LP_BACKGROUND_SPACES})`}}>
           <Box height="90vh" width="100%" direction="horizontal" backgroundColor="#FFF0">
             {this.renderInviteForm()}
             {this.renderPhoneIllustration()}
           </Box>
+          {this.renderFooter()}
         </div>
       </Box>
     );
