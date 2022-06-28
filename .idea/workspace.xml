@@ -2,20 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03c68884-6ea6-4ade-a897-556a7ddd6ebf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/logo_apple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo_google_play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/phone_illustration_1st_dine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/phone_illustration_2nd_spaces.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/place_image_frame_1st_spaces.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/qr_code_frame.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesktopLP/components/PhoneIllustration.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesktopLP/config/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesktopLP/config/types.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesktopLP/services/inviteDetailsPresenter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/item_image_frame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/item_image_placeholder_blog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/place_image_frame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/place_image_placeholder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesktopLP/components/phone-illustration.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/phone_Illustration_spaces.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/phone_illustration_1st_spaces.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesktopLP/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesktopLP/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/phone_illustration_1st_dine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/phone_illustration_2nd_spaces.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/phone_illustration_2nd_spaces.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/place_image_frame_1st_spaces.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/place_image_frame_spaces.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesktopLP/components/PhoneIllustration.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesktopLP/components/PhoneIllustration.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesktopLP/config/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesktopLP/config/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesktopLP/config/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesktopLP/config/types.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DesktopLP/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesktopLP/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesktopLP/services/inviteDetailsPresenter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesktopLP/services/inviteDetailsPresenter.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DesktopLP/index.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="52" column="35" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
+            <state relative-caret-position="289">
+              <caret line="22" column="87" selection-start-line="22" selection-start-column="87" selection-end-line="22" selection-end-column="87" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -43,17 +43,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DesktopLP/index.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="67" column="11" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
+            <state relative-caret-position="377">
+              <caret line="65" column="1" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DesktopLP/components/PhoneIllustration.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="120" selection-start-line="14" selection-start-column="120" selection-end-line="14" selection-end-column="120" />
+            <state relative-caret-position="390">
+              <caret line="27" column="86" selection-start-line="27" selection-start-column="86" selection-end-line="27" selection-end-column="86" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -62,19 +62,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DesktopLP/config/index.ts">
+        <entry file="file://$PROJECT_DIR$/node_modules/csstype/index.d.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="166" selection-start-line="8" selection-start-column="166" selection-end-line="8" selection-end-column="166" />
+            <state relative-caret-position="259">
+              <caret line="18837" column="47" selection-start-line="18837" selection-start-column="41" selection-end-line="18837" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DesktopLP/config/types.ts">
+        <entry file="file://$PROJECT_DIR$/src/DesktopLP/components/phone-illustration.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+            <state relative-caret-position="345">
+              <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -82,8 +82,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DesktopLP/services/inviteDetailsPresenter.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            <state relative-caret-position="259">
+              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DesktopLP/config/index.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DesktopLP/config/types.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -118,6 +139,8 @@
       <find>LP_BACKGROUND_SPACES</find>
       <find>LOGO_APPLE</find>
       <find>LOGO_GOOGLE_PLAY</find>
+      <find>marginLeft</find>
+      <find>scan to</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/node_modules</dir>
@@ -137,12 +160,13 @@
         <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/src/DesktopLP/services/inviteDetails.ts" />
         <option value="$PROJECT_DIR$/src/DesktopLP/config/config.ts" />
-        <option value="$PROJECT_DIR$/src/DesktopLP/config/types.ts" />
-        <option value="$PROJECT_DIR$/src/DesktopLP/services/inviteDetailsPresenter.ts" />
-        <option value="$PROJECT_DIR$/src/DesktopLP/index.tsx" />
         <option value="$PROJECT_DIR$/src/DesktopLP/index.scss" />
-        <option value="$PROJECT_DIR$/src/DesktopLP/config/index.ts" />
+        <option value="$PROJECT_DIR$/src/DesktopLP/services/inviteDetailsPresenter.ts" />
+        <option value="$PROJECT_DIR$/src/DesktopLP/config/types.ts" />
+        <option value="$PROJECT_DIR$/src/DesktopLP/components/phone-illustration.scss" />
         <option value="$PROJECT_DIR$/src/DesktopLP/components/PhoneIllustration.tsx" />
+        <option value="$PROJECT_DIR$/src/DesktopLP/index.tsx" />
+        <option value="$PROJECT_DIR$/src/DesktopLP/config/index.ts" />
       </list>
     </option>
   </component>
@@ -225,6 +249,7 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/DesktopLP/components" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/DesktopLP/assets" />
     </key>
@@ -253,12 +278,12 @@
       <updated>1655707991486</updated>
       <workItem from="1655707993272" duration="27227000" />
       <workItem from="1656253585601" duration="6507000" />
-      <workItem from="1656327227863" duration="13136000" />
+      <workItem from="1656327227863" duration="25612000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46870000" />
+    <option name="totallyTimeSpent" value="59346000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -273,7 +298,7 @@
     <frame x="0" y="23" width="1434" height="952" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24062279" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24062279" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -283,7 +308,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32925338" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.2362301" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.37209302" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="SonarLint" order="9" weight="0.32925338" />
       <window_info anchor="bottom" id="TypeScript" order="10" weight="0.32802936" />
@@ -1257,16 +1282,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/csstype/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2257" column="2" selection-start-line="2257" selection-start-column="2" selection-end-line="2257" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/lp_background_spaces.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DesktopLP/assets/lp_background_spaces.png" />
     <entry file="file://$PROJECT_DIR$/src/ProductPage/ProductsPage.tsx">
       <provider selected="true" editor-type-id="text-editor">
@@ -1343,16 +1358,72 @@
     <entry file="file://$PROJECT_DIR$/public/logo_spaces.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/phone_illustration_1st_spaces.png">
+    <entry file="file://$PROJECT_DIR$/node_modules/wix-style-react/src/Image/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/phone_illustration_1st_dine.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/lp_background_spaces.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/place_image_frame_spaces.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/public/qr_code_frame.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DesktopLP/index.tsx">
+    <entry file="file://$PROJECT_DIR$/public/phone_illustration_1st_spaces.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/phone_illustration_2nd_spaces.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/item_image_placeholder_blog.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/item_image_frame.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesktopLP/config/types.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="52" column="35" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
+        <state relative-caret-position="120">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesktopLP/services/inviteDetailsPresenter.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/csstype/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="18837" column="47" selection-start-line="18837" selection-start-column="41" selection-end-line="18837" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesktopLP/components/phone-illustration.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesktopLP/components/PhoneIllustration.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="86" selection-start-line="27" selection-start-column="86" selection-end-line="27" selection-end-column="86" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -1361,43 +1432,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DesktopLP/index.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="67" column="11" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/wix-style-react/src/Image/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="41" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DesktopLP/config/types.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DesktopLP/services/inviteDetailsPresenter.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state relative-caret-position="377">
+          <caret line="65" column="1" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DesktopLP/config/index.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="166" selection-start-line="8" selection-start-column="166" selection-end-line="8" selection-end-column="166" />
+        <state relative-caret-position="270">
+          <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DesktopLP/components/PhoneIllustration.tsx">
+    <entry file="file://$PROJECT_DIR$/src/DesktopLP/index.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="120" selection-start-line="14" selection-start-column="120" selection-end-line="14" selection-end-column="120" />
+        <state relative-caret-position="289">
+          <caret line="22" column="87" selection-start-line="22" selection-start-column="87" selection-end-line="22" selection-end-column="87" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>

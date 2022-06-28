@@ -1,0 +1,38 @@
+
+@font-face {
+  font-family: WixMadeforDisplay_W_Bd;
+  src: url('../../fonts/WixMadeforDisplay_W_Bd.woff') format('woff');
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: WixMadeforDisplay_W_Rg;
+  src: url('../../fonts/WixMadeforDisplay_W_Rg.woff') format('woff');
+  font-weight: 100;
+}
+
+.placeTitle {
+  font-family: WixMadeforDisplay_W_Bd, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  color: #bbbbbb;
+}
+
+.itemDescription {
+  font-family: WixMadeforDisplay_W_Rg, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 9px;
+  margin-bottom: 5px;
+  color: #999999;
+}
+
+.itemName {
+  font-family: WixMadeforDisplay_W_Rg, sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 10px;
+  margin-bottom: 5px;
+  color: #0000FF;
+}

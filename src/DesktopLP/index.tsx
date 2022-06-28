@@ -20,7 +20,7 @@ export default class DesktopLP extends React.Component<{}, State> {
 
   renderInviteForm = () => {
     return (
-      <Box height="100%" width="60%" paddingTop="70px" marginLeft="140px" marginRight="60px" backgroundColor="#CCC0" direction="vertical">
+      <Box height="100%" width="60%" paddingTop="70px" marginLeft="140px" marginRight="0px" backgroundColor="#CCC0" direction="vertical">
         <Image height="15px" width="80px" src={presenter.getAppLogo(inviteDetails)} fit="cover" transparent/>
         {this.renderInviteDescription()}
         <Box direction="horizontal">
@@ -48,7 +48,7 @@ export default class DesktopLP extends React.Component<{}, State> {
 
   renderQRcode = () => {
     return (
-      <Box direction="vertical" paddingTop="50px" marginLeft="40px" backgroundColor="#0000">
+      <Box width="200px" direction="vertical" paddingTop="50px" marginLeft="40px" backgroundColor="#0000">
         <strong className={styles.qrCodeHint}>Or scan to download</strong>
         <div className={styles.qrBox} style={{backgroundImage: `url(${config.assets.QR_CODE_FRAME})`}}>
           <QRCode value="http://www.wix.com/omri.tal13" size={72}/>
@@ -88,7 +88,7 @@ export default class DesktopLP extends React.Component<{}, State> {
 
   renderPhoneIllustration = () => {
     return (
-      <Box height="100%" width="40%" marginTop="70px" backgroundColor="#FFF0">
+      <Box height="500px" width="500px" marginTop="40px" backgroundColor="#FFF0">
         <PhoneIllustration/>
       </Box>
     );
@@ -97,7 +97,7 @@ export default class DesktopLP extends React.Component<{}, State> {
   renderFooter = () => {
     return (
       <Box height="70px" width="100%" marginTop="0px" backgroundColor="#EEE2">
-        <Box height="100%" width="100%" marginLeft="140px" marginRight="140px" marginTop="18px" backgroundColor="#0000" direction="horizontal">
+        <Box height="100%" width="100%" marginLeft="140px" marginRight="140px" marginTop="20px" backgroundColor="#0000" direction="horizontal">
           <Image height="26px" width="110px" src={config.assets.LOGO_GOOGLE_PLAY} fit="cover" transparent/>
           <Image height="26px" width="95px" src={config.assets.LOGO_APPLE} fit="cover" transparent/>
           <Box height="26px" width="1px" marginLeft="30px" marginRight="30px" backgroundColor="#FFF"/>
