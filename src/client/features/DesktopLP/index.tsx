@@ -20,16 +20,11 @@ export default class DesktopLP extends React.Component<{}, State> {
   };
 
   componentDidMount(): void {
-
-//    alert('componentDidMount');
-
     inviteDetailsService.get({inviteCode: "YVDKFT"})
       .then((data: any) => {
         alert(JSON.stringify(data));
-        console.log('Get invite Details', 'success', JSON.stringify(data));
       }).catch((error: any) => {
         alert(JSON.stringify(error));
-        console.log('Get invite Details', 'error', JSON.stringify(error));
     });
   }
 

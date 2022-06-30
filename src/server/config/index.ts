@@ -1,6 +1,11 @@
 export const config = {
   api: {
-    getInviteDetails: 'apps.wix.com/clubs/api/v1/invites/details',
-    getPlacesJoinDetails: 'apps.wix.com/clubs/api/v1/business/join/details'
+    external: {
+      getInviteDetails: 'https://apps.wix.com/clubs/api/v1/invites/details',
+      getPlacesJoinDetails: 'https://apps.wix.com/clubs/api/v1/business/join/details'
+    },
+    internal: {
+      getInviteDetails: 'http://localhost:8080/inviteDetails',
+    }
   }
 };
