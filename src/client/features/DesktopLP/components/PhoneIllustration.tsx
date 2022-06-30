@@ -1,7 +1,7 @@
 import React from 'react';
 import {Box, Image} from 'wix-style-react';
 import {inviteDetailsPresenter as presenter} from '../services/inviteDetailsPresenter';
-import {inviteDetails} from '../config';
+import {inviteDetails} from '../../../config';
 import styles from './phone-illustration.scss';
 
 

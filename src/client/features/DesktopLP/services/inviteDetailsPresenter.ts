@@ -1,5 +1,5 @@
-import {InviteDetails} from "../config/types";
-import {config} from "../config";
+import {InviteDetails} from "../../../config/types";
+import {config} from "../../../config";
 
 const getAppLogo = (inviteDetails: InviteDetails) => {
   return `logo_${inviteDetails.appType}.png`;

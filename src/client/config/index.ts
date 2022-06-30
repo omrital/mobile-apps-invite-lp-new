@@ -14,6 +14,7 @@ export const inviteDetails: InviteDetails = {
   itemName: 'Find Your Perfect Hobby Right Away',
   itemDescription: 'Blog Post',
   vertical: 'blog',
+//  vertical: 'stores',
 //  inviteLevel: '1st',
   inviteLevel: '2nd',
 };

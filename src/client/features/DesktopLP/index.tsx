@@ -3,8 +3,9 @@ import styles from './index.scss';
 import QRCode from 'react-qr-code';
 import {Box, Image, Dropdown, Input, Button, TextButton} from 'wix-style-react';
 import {inviteDetailsPresenter as presenter} from './services/inviteDetailsPresenter';
-import {config, inviteDetails} from './config';
+import {config, inviteDetails} from '../../config';
 import PhoneIllustration from './components/PhoneIllustration';
+import {inviteDetailsService} from '../../../server/services/inviteDetails';
 
 type State = {
   countryCode: number,
@@ -18,6 +19,20 @@ export default class DesktopLP extends React.Component<{}, State> {
     phoneNumber: '',
   };
 
+  componentDidMount(): void {
+
+//    alert('componentDidMount');
+
+    inviteDetailsService.get({inviteCode: "YVDKFT"})
+      .then((data: any) => {
+        alert(JSON.stringify(data));
+        console.log('Get invite Details', 'success', JSON.stringify(data));
+      }).catch((error: any) => {
+        alert(JSON.stringify(error));
+        console.log('Get invite Details', 'error', JSON.stringify(error));
+    });
+  }
+
   renderInviteForm = () => {
     return (
       <Box height="100%" width="60%" paddingTop="70px" marginLeft="140px" marginRight="0px" backgroundColor="#CCC0" direction="vertical">
@@ -26,7 +41,7 @@ export default class DesktopLP extends React.Component<{}, State> {
         <Box direction="horizontal">
           {this.renderSendSmsView()}
           <Box height="100px" width="1px" paddingTop="0px" marginLeft="30px" marginTop="70px" backgroundColor="#CCC5"/>
-          {this.renderQRcode()}
+          {this.renderQrCode()}
         </Box>
       </Box>
     );
@@ -46,7 +61,7 @@ export default class DesktopLP extends React.Component<{}, State> {
     );
   };
 
-  renderQRcode = () => {
+  renderQrCode = () => {
     return (
       <Box width="200px" direction="vertical" paddingTop="50px" marginLeft="40px" backgroundColor="#0000">
         <strong className={styles.qrCodeHint}>Or scan to download</strong>
