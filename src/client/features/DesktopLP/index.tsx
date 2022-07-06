@@ -1,15 +1,19 @@
 import React from 'react';
-import styles from './index.scss';
 import QRCode from 'react-qr-code';
 import {Box, Image, Dropdown, Input, Button, TextButton} from 'wix-style-react';
 import {inviteDetailsPresenter as presenter} from './services/inviteDetailsPresenter';
-import {config, inviteDetails} from '../../config';
+import {config} from './config';
 import PhoneIllustration from './components/PhoneIllustration';
-import {inviteDetailsService} from '../../../server/services/inviteDetails';
+import {inviteDetailsService} from './services/inviteDetails';
+import {InviteDetails} from './config/types';
+import {i18n} from "../../../locale/i18n";
+//@ts-ignore
+import styles from './index.scss';
 
 type State = {
   countryCode: number,
-  phoneNumber: string
+  phoneNumber: string,
+  inviteDetails: InviteDetails
 }
 
 export default class DesktopLP extends React.Component<{}, State> {
@@ -17,21 +21,23 @@ export default class DesktopLP extends React.Component<{}, State> {
   state: State = {
     countryCode: 0,
     phoneNumber: '',
+    inviteDetails: config.defaults.inviteDetails as InviteDetails
   };
 
   componentDidMount(): void {
-    inviteDetailsService.get({inviteCode: "YVDKFT"})
+    inviteDetailsService.get({inviteCode: config.defaults.inviteCode1stExample})
       .then((data: any) => {
-        alert(JSON.stringify(data));
+        console.log('LP', 'inviteDetails success', JSON.stringify(data));
+        this.setState({inviteDetails: data});
       }).catch((error: any) => {
-        alert(JSON.stringify(error));
+        console.log('LP', 'inviteDetails failed', JSON.stringify(error));
     });
   }
 
   renderInviteForm = () => {
     return (
       <Box height="100%" width="60%" paddingTop="70px" marginLeft="140px" marginRight="0px" backgroundColor="#CCC0" direction="vertical">
-        <Image height="15px" width="80px" src={presenter.getAppLogo(inviteDetails)} fit="cover" transparent/>
+        <Image height="15px" width="80px" src={presenter.getAppLogo(this.state.inviteDetails)} fit="cover" transparent/>
         {this.renderInviteDescription()}
         <Box direction="horizontal">
           {this.renderSendSmsView()}
@@ -45,12 +51,12 @@ export default class DesktopLP extends React.Component<{}, State> {
   renderInviteDescription = () => {
     return (
       <Box direction="vertical" paddingTop="26px" backgroundColor="#EEE0">
-        <strong className={styles.mainTitle}>Join “{inviteDetails.title}”</strong>
+        <strong className={styles.mainTitle}>{presenter.getMainTitle(this.state.inviteDetails)}</strong>
         <Box paddingTop="20px">
-          <strong className={styles.secondaryTitle}>{inviteDetails.subtitle}</strong>
+          <strong className={styles.secondaryTitle}>{presenter.getSubtitle(this.state.inviteDetails)}</strong>
         </Box>
         <Box paddingTop="20px">
-          <strong className={styles.description}>{inviteDetails.description}</strong>
+          <strong className={styles.description}>{presenter.getDescription(this.state.inviteDetails)}</strong>
         </Box>
       </Box>
     );
@@ -59,7 +65,7 @@ export default class DesktopLP extends React.Component<{}, State> {
   renderQrCode = () => {
     return (
       <Box width="200px" direction="vertical" paddingTop="50px" marginLeft="40px" backgroundColor="#0000">
-        <strong className={styles.qrCodeHint}>Or scan to download</strong>
+        <strong className={styles.qrCodeHint}>{i18n('lp.desktop.title.qr-code')}</strong>
         <div className={styles.qrBox} style={{backgroundImage: `url(${config.assets.QR_CODE_FRAME})`}}>
           <QRCode value="http://www.wix.com/omri.tal13" size={72}/>
         </div>
@@ -70,26 +76,21 @@ export default class DesktopLP extends React.Component<{}, State> {
   renderSendSmsView = () => {
     return (
       <Box direction="vertical" paddingTop="72px" backgroundColor="#EEE0">
-        <strong className={styles.phoneHint}>Enter your phone number to get a download link</strong>
+        <strong className={styles.phoneHint}>{i18n('lp.desktop.title.phone')}</strong>
         <Box direction="horizontal" paddingTop="25px" backgroundColor="#EEE0">
           <Box width="91px" marginRight="10px">
             <Dropdown
               initialSelectedId={this.state.countryCode}
               onSelect={({ id }) => this.setState({ countryCode: id as number})}
-              options={[
-                { id: 0, value: '972' },
-                { id: 1, value: '155' },
-                { id: 2, value: '66' },
-                { id: 3, value: '424' }
-              ]}
+              options={presenter.getCountryCodes()}
             />
           </Box>
           <Input placeholder="Phone number" onChange={this.onChange} value={this.state.phoneNumber} />
           <div className={styles.sendBox1}>
             <div className={styles.sendBox2}>
-              <Button skin="dark" priority="secondary">Send</Button>
+              <Button skin="dark" priority="secondary">{i18n('lp.desktop.button.send')}</Button>
             </div>
-            <Button skin="light">Send</Button>
+            <Button skin="light">{i18n('lp.desktop.button.send')}</Button>
           </div>
         </Box>
       </Box>
@@ -99,7 +100,7 @@ export default class DesktopLP extends React.Component<{}, State> {
   renderPhoneIllustration = () => {
     return (
       <Box height="500px" width="500px" marginTop="40px" backgroundColor="#FFF0">
-        <PhoneIllustration/>
+        <PhoneIllustration inviteDetails={this.state.inviteDetails}/>
       </Box>
     );
   };
@@ -112,7 +113,7 @@ export default class DesktopLP extends React.Component<{}, State> {
           <Image height="26px" width="95px" src={config.assets.LOGO_APPLE} fit="cover" transparent/>
           <Box height="26px" width="1px" marginLeft="30px" marginRight="30px" backgroundColor="#FFF"/>
           <Box marginTop="4px">
-            <TextButton size="tiny" skin="light" underline="always">Learn more about Spaces By Wix</TextButton>
+            <TextButton size="tiny" skin="light" underline="always">{i18n('lp.desktop.button.learn-more')}</TextButton>
           </Box>
         </Box>
       </Box>

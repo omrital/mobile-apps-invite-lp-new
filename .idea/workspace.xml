@@ -2,14 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03c68884-6ea6-4ade-a897-556a7ddd6ebf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/client/features/DesktopLP/config/countryCodes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/features/DesktopLP/services/inviteDetailsMapper.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locale/i18n.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locale/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locale/messages_en.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/config/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/features/DesktopLP/config/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/config/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/features/DesktopLP/config/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/features/DesktopLP/components/PhoneIllustration.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/features/DesktopLP/components/PhoneIllustration.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/client/features/DesktopLP/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/features/DesktopLP/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/config/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/config/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/features/DesktopLP/services/inviteDetailsPresenter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/features/DesktopLP/services/inviteDetailsPresenter.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/server/routes/inviteDetailsRouter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/routes/inviteDetailsRouter.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/services/http.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/services/http.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/services/inviteDetails.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/services/inviteDetails.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/services/http.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/http.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/services/inviteDetails.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/features/DesktopLP/services/inviteDetails.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/client/features/DesktopLP/index.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="342">
+              <caret line="27" column="49" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="49" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -34,23 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/server/services/inviteDetails.ts">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/client/features/DesktopLP/config/index.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#0#48#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/server/config/index.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="255">
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -67,28 +61,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>react-router</find>
-      <find>react-router-do</find>
-      <find>dom</find>
-      <find>react-router-dom</find>
-      <find>/products-page</find>
-      <find>stylable app</find>
-      <find>stylesheet</find>
-      <find>stylesheet()</find>
-      <find>-moz-osx</find>
-      <find>Image</find>
-      <find>src</find>
-      <find>styles</find>
-      <find>style=</find>
-      <find>inviteDetailsPresenter</find>
-      <find>LOGO_SPACES</find>
-      <find>LP_BACKGROUND_SPACES</find>
-      <find>LOGO_APPLE</find>
-      <find>LOGO_GOOGLE_PLAY</find>
-      <find>marginLeft</find>
-      <find>scan to</find>
-      <find>InviteDetails</find>
-      <find>CONFIG</find>
       <find>renderQrCode</find>
       <find>proxy:</find>
       <find>proxy</find>
@@ -97,7 +69,41 @@
       <find>businessId</find>
       <find>api</find>
       <find>FetchInterface</find>
+      <find>itemName</find>
+      <find>MvobjectembersList</find>
+      <find>presenter.get</find>
+      <find>.v2</find>
+      <find>.level</find>
+      <find>inviteDetails.</find>
+      <find>by Wix</find>
+      <find>Spaces by Wix</find>
+      <find>1st</find>
+      <find>description.2nd</find>
+      <find>wixForms</find>
+      <find>achievements</find>
+      <find>.WixOneApp</find>
+      <find>Mimi’s World</find>
+      <find>&quot;code&quot;</find>
+      <find>strong</find>
+      <find>text</find>
+      <find>inviteDetails</find>
+      <find>this.props</find>
+      <find>this.props.inviteDetails</find>
+      <find>.inviteDetails</find>
+      <find>appType</find>
     </findStrings>
+    <replaceStrings>
+      <replace>lp.desktop.2nd</replace>
+      <replace>lp.desktop.2nd.</replace>
+      <replace>title</replace>
+      <replace>description</replace>
+      <replace>{{appDescription}}</replace>
+      <replace>{{placeName}}</replace>
+      <replace>this.state.inviteDetails</replace>
+      <replace>code</replace>
+      <replace>this.props.inviteDetails</replace>
+      <replace>inviteDetails</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/node_modules</dir>
     </dirStrings>
@@ -126,16 +132,28 @@
         <option value="$PROJECT_DIR$/src/server/index.ts" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/server/services/http.ts" />
-        <option value="$PROJECT_DIR$/src/client/features/DesktopLP/index.tsx" />
         <option value="$PROJECT_DIR$/src/server/routes/inviteDetailsRouter.ts" />
         <option value="$PROJECT_DIR$/src/server/config/index.ts" />
         <option value="$PROJECT_DIR$/src/server/services/inviteDetails.ts" />
+        <option value="$PROJECT_DIR$/src/services/inviteDetails.ts" />
+        <option value="$PROJECT_DIR$/src/client/features/DesktopLP/services/inviteDetails.ts" />
+        <option value="$PROJECT_DIR$/src/locale/index.d.ts" />
+        <option value="$PROJECT_DIR$/src/client/features/DesktopLP/config/types.ts" />
+        <option value="$PROJECT_DIR$/src/client/features/DesktopLP/services/inviteDetailsMapper.ts" />
+        <option value="$PROJECT_DIR$/src/client/features/DesktopLP/config/countryCodes.ts" />
+        <option value="$PROJECT_DIR$/src/services/i18n.ts" />
+        <option value="$PROJECT_DIR$/src/locale/i18n.ts" />
+        <option value="$PROJECT_DIR$/src/client/features/DesktopLP/index.tsx" />
+        <option value="$PROJECT_DIR$/src/locale/messages_en.json" />
+        <option value="$PROJECT_DIR$/src/client/features/DesktopLP/services/inviteDetailsPresenter.ts" />
+        <option value="$PROJECT_DIR$/src/client/features/DesktopLP/components/PhoneIllustration.tsx" />
+        <option value="$PROJECT_DIR$/src/client/features/DesktopLP/config/index.ts" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1433" />
+    <option name="width" value="1463" />
     <option name="height" value="932" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -154,23 +172,6 @@
             <path>
               <item name="mobile-apps-invite-lp-new" type="b2602c69:ProjectViewProjectNode" />
               <item name="mobile-apps-invite-lp-new" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mobile-apps-invite-lp-new" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mobile-apps-invite-lp-new" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="node-fetch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mobile-apps-invite-lp-new" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mobile-apps-invite-lp-new" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="xtend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mobile-apps-invite-lp-new" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mobile-apps-invite-lp-new" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -184,20 +185,36 @@
               <item name="mobile-apps-invite-lp-new" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobile-apps-invite-lp-new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile-apps-invite-lp-new" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="DesktopLP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobile-apps-invite-lp-new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile-apps-invite-lp-new" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="DesktopLP" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mobile-apps-invite-lp-new" type="b2602c69:ProjectViewProjectNode" />
               <item name="mobile-apps-invite-lp-new" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="locale" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mobile-apps-invite-lp-new" type="b2602c69:ProjectViewProjectNode" />
               <item name="mobile-apps-invite-lp-new" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -218,18 +235,19 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/client/features" />
-      <recent name="$PROJECT_DIR$/src/client" />
-      <recent name="$PROJECT_DIR$/src/server" />
-      <recent name="$PROJECT_DIR$/public" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/locale" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/server/config" />
       <recent name="$PROJECT_DIR$/src/server" />
       <recent name="$PROJECT_DIR$/src/services" />
-      <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/locale" />
+      <recent name="$PROJECT_DIR$/src/client/features/DesktopLP" />
+      <recent name="$PROJECT_DIR$/src/client/features/DesktopLP/services" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/client/features" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -261,7 +279,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74931000" />
+    <option name="totallyTimeSpent" value="107905000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -273,9 +291,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1433" height="932" extended-state="0" />
+    <frame x="0" y="23" width="1463" height="932" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18696883" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18307906" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -285,10 +304,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32925338" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.60100377" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.27979925" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="SonarLint" order="9" weight="0.32925338" />
-      <window_info anchor="bottom" id="TypeScript" order="10" weight="0.32802936" />
+      <window_info anchor="bottom" id="TypeScript" order="10" weight="0.32747805" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32925338" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1217,21 +1236,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/react-router-dom/index.d.ts" />
-    <entry file="file://$PROJECT_DIR$/src/AddProductPage/AddProductUtils.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/wix-style-react/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="60" column="14" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="921">
@@ -1239,38 +1243,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AddProductPage/AddProducts.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-          <folding>
-            <element signature="e#32#84#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AddProductPage/AddProducts.tsx" />
     <entry file="file://$PROJECT_DIR$/src/DesktopLP/assets/lp_background_spaces.png" />
-    <entry file="file://$PROJECT_DIR$/src/ProductPage/ProductsPage.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="95" column="14" lean-forward="true" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProductPage/ProductsPage.tsx" />
     <entry file="file://$PROJECT_DIR$/node_modules/wix-style-react/dist/types/Layout/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/@types/node/globals.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1305,9 +1284,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/phone_illustration_1st_dine.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/phone_illustration_1st_dine.png" />
     <entry file="file://$PROJECT_DIR$/public/lp_background_spaces.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -1343,43 +1320,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/client/features/DesktopLP/components/PhoneIllustration.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="52" column="39" lean-forward="true" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/client/features/DesktopLP/services/inviteDetailsPresenter.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/client/config/types.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Context/context.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Context/context.tsx" />
     <entry file="file://$PROJECT_DIR$/src/client/features/DesktopLP/index.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
@@ -1417,13 +1358,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/node-fetch/@types/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3120">
-          <caret line="218" column="24" selection-start-line="218" selection-start-column="24" selection-end-line="218" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/node-fetch/@types/index.d.ts" />
     <entry file="file://$PROJECT_DIR$/node_modules/node-fetch/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1439,34 +1374,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="18094" column="17" selection-start-line="18094" selection-start-column="17" selection-end-line="18094" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/server/services/http.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-124">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/server/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#139#169#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1494,30 +1405,147 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/client/config/index.ts">
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/server/services/inviteDetails.ts">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="345">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/lodash/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/http.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/node/globals.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="287" column="8" selection-start-line="287" selection-start-column="8" selection-end-line="287" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
-            <element signature="e#0#48#0" expanded="true" />
+            <element signature="e#139#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/features/DesktopLP/services/inviteDetails.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/features/DesktopLP/services/inviteDetailsMapper.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="59" selection-start-column="59" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/features/DesktopLP/config/countryCodes.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/typescript/lib/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="129" column="4" selection-start-line="129" selection-start-column="4" selection-end-line="129" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/locale/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/locale/i18n.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/features/DesktopLP/config/types.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/locale/messages_en.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="59" column="76" lean-forward="true" selection-start-line="59" selection-start-column="76" selection-end-line="59" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/features/DesktopLP/services/inviteDetailsPresenter.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="38" column="44" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/features/DesktopLP/components/PhoneIllustration.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="76" column="4" lean-forward="true" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/client/features/DesktopLP/index.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="342">
+          <caret line="27" column="49" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="49" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/features/DesktopLP/config/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
         </state>
       </provider>
     </entry>

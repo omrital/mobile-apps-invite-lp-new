@@ -1,0 +1,61 @@
+{
+  "lp.desktop.1st.title": "Join “{{placeName}}”",
+
+  "lp.desktop.1st.description.newBlog": "Download the {{appDescription}} app and join “{{placeName}}” to check out their blog on the go and stay updated with new posts.",
+  "lp.desktop.1st.description.stores": "Download the {{appDescription}} app and join “{{placeName}}” to browse and buy from their store on the go and stay updated with the latest news & offers.",
+  "lp.desktop.1st.description.forum": "Download the {{appDescription}} app and join “{{placeName}}” to check out their forum on the go and stay updated with new posts & discussions.",
+  "lp.desktop.1st.description.groups": "Download the {{appDescription}} app and join “{{placeName}}” to check out their groups on the go and stay updated with the latest news & discussions.",
+  "lp.desktop.1st.description.bookings": "Download the {{appDescription}} app and join “{{placeName}}” to check out and book their services on the go and stay updated with the latest news & updates.",
+  "lp.desktop.1st.description.events": "Download the {{appDescription}} app and join “{{placeName}}” to check out their events on the go and stay updated with the latest news and discussions.",
+  "lp.desktop.1st.description.achievements": "Download the {{appDescription}} app and join “{{placeName}}” to check out and participate in their programs and stay updated with the latest news.",
+  "lp.desktop.1st.description.default": "Download the {{appDescription}} app and join “{{placeName}}” to check out their site on the go and stay updated with the latest news, offers and more.",
+
+  "lp.desktop.2nd.title.newBlog": "Read ‘{{itemName}}’",
+  "lp.desktop.2nd.description.newBlog": "Download the {{appDescription}} app and join “{{placeName}}” to read ‘{{itemName}}’. You’ll also be able to leave comments, get notified about new posts and more.",
+  "lp.desktop.2nd.illustration.text.2nd.newBlog": "Blog Post",
+
+  "lp.desktop.2nd.title.stores": "Check Out ‘{{itemName}}’",
+  "lp.desktop.2nd.description.stores": "Download the {{appDescription}} app and join “{{placeName}}” to check out ‘{{itemName}}’. You’ll also be able to buy more products, stay updated about offers and more.",
+  "lp.desktop.2nd.illustration.text.2nd.stores": "Store Product",
+
+  "lp.desktop.2nd.title.forum": "Read ‘{{itemName}}’",
+  "lp.desktop.2nd.description.forum": "Download the {{appDescription}} and join “{{placeName}}”to check out ‘{{itemName}}’. You’ll also be able to leave comments, join in discussions, stay updated about new posts and more.",
+  "lp.desktop.2nd.illustration.text.2nd.forum": "Forum",
+
+  "lp.desktop.2nd.title.groups": "Become a Member of ‘{{itemName}}’",
+  "lp.desktop.2nd.description.groups": "Download the {{appDescription}} and join “{{placeName}}” to become a member of ‘{{itemName}}’,  You’ll also be able to connect with other members, stay updated with group discussions and more.",
+  "lp.desktop.2nd.illustration.text.2nd.groups": "Group",
+
+  "lp.desktop.2nd.title.bookings": "Check Out ‘{{itemName}}’",
+  "lp.desktop.2nd.description.bookings": "Download the {{appDescription}} and join “{{placeName}}” to book ‘{{itemName}}’.  You’ll also be able to check out other services, stay updated with news and more.",
+  "lp.desktop.2nd.illustration.text.2nd.bookings": "Class",
+
+  "lp.desktop.2nd.title.events": "RSVP to ‘{{itemName}}’",
+  "lp.desktop.2nd.description.events": "Download the {{appDescription}} and join “{{placeName}}” to RSVP to ‘{{itemName}}’. You’ll also be able to check out other events, stay updated with news and more.",
+  "lp.desktop.2nd.illustration.text.2nd.events": "Event",
+
+  "lp.desktop.2nd.title.achievements": "Participate in ‘{{itemName}}’",
+  "lp.desktop.2nd.description.achievements": "Download the {{appDescription}} and join “{{placeName}}” to participate in ‘{{itemName}}’. You’ll also be able to check out other programs, stay updated with news and more.",
+  "lp.desktop.2nd.illustration.text.2nd.achievements": "Online Program",
+
+  "lp.desktop.2nd.title.eventsSchedule": "Participate in ‘{{itemName}}’",
+  "lp.desktop.2nd.description.eventsSchedule": "Join {{placeName}} on the {{appDescription}} app. Check out the schedule, build your personal agenda and keep updated on the day of the event.",
+  "lp.desktop.2nd.illustration.text.2nd.eventsSchedule": "Event",
+
+  "lp.desktop.2nd.title.sharedGallery": "Check Out ‘{{itemName}}’",
+  "lp.desktop.2nd.description.sharedGallery": "Download the {{appDescription}} app to become a member of “{{placeName}}” and open the ‘{{itemName}}’ album.\nStay updated with the latest photos & videos, see tags, add reactions comment and more.",
+  "lp.desktop.2nd.illustration.text.2nd.sharedGallery": "Album",
+
+  "lp.desktop.2nd.title.groupsPost": "Check Out ‘{{itemName}}’",
+  "lp.desktop.2nd.description.groupsPost": "To view this post, become a member of “{{placeName}}” on the {{appDescription}} app.",
+  "lp.desktop.2nd.illustration.text.2nd.groupsPost": "Group",
+
+  "lp.desktop.2nd.title.default": "Check Out ‘{{itemName}}’",
+  "lp.desktop.2nd.description.default": "Download the {{appDescription}} app and join “{{placeName}}” to check out ‘{{itemName}}’.",
+  "lp.desktop.2nd.illustration.text.2nd.default": " ",
+
+  "lp.desktop.button.send": "Send",
+  "lp.desktop.button.learn-more": "Learn more about Spaces By Wix",
+  "lp.desktop.title.qr-code": "Or scan to download",
+  "lp.desktop.title.phone": "Enter your phone number to get a download link"
+}

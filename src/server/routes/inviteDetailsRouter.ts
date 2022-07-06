@@ -1,6 +1,6 @@
 import {NextFunction, Request, Response} from 'express-serve-static-core';
 import {GetInviteParams, InviteDetails} from "../config/types";
-import {http} from '../services/http';
+import {http} from '../../services/http';
 import {config} from '../config';
 import express from 'express';
 
